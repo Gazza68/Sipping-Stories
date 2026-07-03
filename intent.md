@@ -1,4 +1,4 @@
-# intent.md — VineMind (working name)
+# intent.md — Sipping Stories
 
 > Master intent file. Lives in the repo root. Every AI-assisted build session starts by reading this file. If code and this file disagree, this file wins — or gets updated deliberately.
 
@@ -78,7 +78,7 @@ Plus, before/alongside M0: the **Kent Wine Index** public website (SEO, waitlist
 
 ## Open questions (resolve in Phase 0, then update this file)
 
-- Final name (leading candidate: **Sipping Stories**; trademark/handle checks pending)
+- Name: **Sipping Stories** (decided). Trademark/handle checks pending.
 - Launch region confirmation: Kent vs Stellenbosch (decision rule: wherever we can physically visit tasting rooms)
 - LWIN coverage of regional wines — gap size determines manual seeding effort
 - Winery willingness to pay £59–99/mo — validate in interviews before building M5/M6

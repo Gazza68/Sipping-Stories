@@ -1,4 +1,4 @@
-# VineMind — Technical Build Plan
+# Sipping Stories — Technical Build Plan
 
 *Architecture, stack and build sequence for a solo, AI-assisted, bootstrap build*
 

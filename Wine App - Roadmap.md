@@ -1,4 +1,4 @@
-# VineMind — Roadmap
+# Sipping Stories — Roadmap
 
 *From idea to revenue in five gated phases (24 months, bootstrap)*
 
